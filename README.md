@@ -1,1 +1,1 @@
-/images has design diagram and base idea. 
+/images has design diagram implemented in pytorch in /src. 
